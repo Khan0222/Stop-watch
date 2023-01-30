@@ -1,0 +1,93 @@
+.bor{
+    border: 1px solid black;
+}
+
+.parent {
+
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(209, 187, 66);
+}      
+
+.upper{
+
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: antiquewhite;
+    font-size: 500%;
+}
+
+.midl {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 250%;
+}
+
+.lower {
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rest {
+
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 20%;
+    width: 10%;
+    border-radius: 10%;
+}
+
+.start {
+
+    height: 20%;
+    width: 10%;
+    border-radius: 10%;
+}
+
+.stop 
+{
+    border-radius: 10%;
+    height: 20%;
+    width: 10%;
+    margin-right: 5%;
+}
+
+.log{
+    border-radius: 10%;
+    height: 20%;
+    width: 10%;
+
+}
+
+.left{
+
+    height: 100%;
+    width: 33%;
+    display: flex;
+    justify-content: center;
+}
+
+.md{
+
+    height: 100%;
+    width: 33%;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.right{
+    height: 100%;
+    width: 33%;
+    display: flex;
+justify-content: center;
+
+}
